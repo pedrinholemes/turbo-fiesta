@@ -1,0 +1,8 @@
+{
+  "name": "node-js-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pedrinholemes/nodejs-template",
+  "author": "Pedro Henrique Lemes Da Silva <pedroca21265@gmail.com>",
+  "license": "MIT"
+}
